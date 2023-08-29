@@ -1,0 +1,6 @@
+# ignore all C object files and object folder
+*.o
+obj
+
+# ignore binary file
+/riddler
